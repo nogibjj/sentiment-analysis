@@ -16,4 +16,6 @@ datasets
 nltk
 torch
 tqdm
-#collections
+scikit-learn
+seaborn
+matplotlib
