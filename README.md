@@ -1,25 +1,7 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cervs257/ece590-sentiment-analysis/blob/main/sentiment_word2vec.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nogibjj/sentiment-analysis/blob/main/sentiment_analysis.ipynb)
 
-## Template for Python projects
+## Focusing on Embeddings for Sentiment Analysis
 
-1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
+Pre-trained embeddings are oftentimes utilized in sentiment analysis. Something often lost is that most embeddings chosen in these models were not designed to capture sentiment-related features. 
 
-Things included are:
-
-* `Makefile`
-
-* `Pytest`
-
-* `pandas`
-
-* `Pylint`
-
-* `Dockerfile`
-
-* `GitHub copilot`
-
-* `jupyter` and `ipython` 
-
-* A base set of libraries for devops and web
-
-* `githubactions` 
+This is a simple model which emphasizes the importance of embeddings in the sentiment analysis process.
